@@ -7,7 +7,14 @@ PCA, clustering, OLS regression, ARIMA/SARIMA, ARCH/GARCH, VAR & Granger causali
 an ANN forecasting model — on live NSE/BSE market microstructure and RBI macroeconomic
 data.
 
----
+--- 
+## 🚀 Live Demo
+
+Experience the Financial Market Forecasting Dashboard live:
+
+**🔗 Live Application:** https://financial-market-forecasting-analysis-jdcixddt5shb9e4wkf6emy.streamlit.app/
+
+Explore interactive dashboards, forecasting models, statistical analyses, clustering techniques, regression models, and ANN-based predictions directly from your browser.
 
 ## 1. Project structure
 
